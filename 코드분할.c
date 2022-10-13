@@ -10,6 +10,11 @@ int Sub(int x, int y)
   return x - y;
 }
 
+int Mul(int x, int y)
+{
+	return x*y;
+}
+
 float Div(int x, int y)
 {
 	return (float)x / y;
